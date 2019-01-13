@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+.act{
+    overflow:scroll;
+    height:300px;
+    border:2px solid  #17a2b8;
+    padding:10px;
+}
+.success{
+    color:#28a745;
+}
+.failure{
+    color:#dc3545;
+}

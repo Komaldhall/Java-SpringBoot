@@ -1,0 +1,17 @@
+label{
+    display:inline-block;
+}
+.margin_b{
+    margin-bottom: 15px;
+}
+.width{
+    width:150px;
+}
+.container{
+    text-align: center;
+    background-color: beige;
+    border:10px solid  rgb(138, 138, 21);
+    font-size:20px;
+    font-family: sans-serif;
+}
+    
